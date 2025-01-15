@@ -1,1 +1,1 @@
-# Directory-anal-zer
+# Directory-analyzer
